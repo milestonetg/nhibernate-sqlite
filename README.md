@@ -1,6 +1,9 @@
 # MilestoneTG.NHibernate.Driver.Sqlite.Microsoft
 
 [![Build](https://milestonetg.visualstudio.com/_apis/public/build/definitions/8468d2c8-8497-4e19-9420-4dfcb015c134/29/badge)](https://milestonetg.visualstudio.com/Milestone/_build/index?definitionId=29)
+[![MyGet](https://img.shields.io/myget/vpre/MilestoneTG.NHibernate.Driver.Sqlite.Microsoft.svg?semVer=2.0.0)](https://www.myget.org/feed/milestonetg-public/package/nuget/MilestoneTG.NHibernate.Driver.Sqlite.Microsoft/)
+[![NuGet](https://img.shields.io/nuget/vpre/MilestoneTG.NHibernate.Driver.Sqlite.Microsoft.svg?semVer=2.0.0)](https://www.nuget.org/packages/MilestoneTG.NHibernate.Driver.Sqlite.Microsoft/)
+
 
 A NHibernate SQLite driver using Microsoft.Data.Sqlite.
 
