@@ -5,6 +5,10 @@
     <Authors>milestonetg, jpenniman</Authors>
     <Company>milestonetg</Company>
     <Description>A NHibernate.Driver that uses the Microsoft.Data.Sqlite ADO.Net provider for SQLite.</Description>
+    <PackageLicenseUrl>https://github.com/milestonetg/nhibernate-sqlite/blob/master/LICENSE</PackageLicenseUrl>
+    <Copyright>2018 Milestone Technology Group, LLC</Copyright>
+    <PackageProjectUrl>https://github.com/milestonetg/nhibernate-sqlite</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/milestonetg/nhibernate-sqlite</RepositoryUrl>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
