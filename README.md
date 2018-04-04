@@ -1,5 +1,7 @@
 # MilestoneTG.NHibernate.Driver.Sqlite.Microsoft
 
+[![Build](https://milestonetg.visualstudio.com/_apis/public/build/definitions/8468d2c8-8497-4e19-9420-4dfcb015c134/29/badge)](https://milestonetg.visualstudio.com/Milestone/_build/index?definitionId=29)
+
 A NHibernate SQLite driver using Microsoft.Data.Sqlite.
 
 ## Configuration
